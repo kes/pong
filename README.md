@@ -1,1 +1,2 @@
 # pong
+Playing with SDL
